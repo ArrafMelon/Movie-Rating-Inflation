@@ -1,2 +1,2 @@
 # Movie-Rating-Inflation
-Finding out if Movie rating site Fandango inflates the ratings of their films after 2015.
+Fandango is a review-aggregation website for movies. This site had been hit with some controvesy regarding the inflation of the ratings of some movies. Data journalist Walt Hickey established that the site had been rounding up the actual ratings of films (for example, 4.1 stars would be rounded up to 4.5 stars). 8% of ratings were also rounded up to the nearest whole star (4.5 to 5.0 stars for example). Fandango officials established that this was caused by a bug in their system but today we'll find out if the ratings are still being inflated.
